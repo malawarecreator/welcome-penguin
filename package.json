@@ -1,0 +1,11 @@
+{
+  "name": "welcome-penguin",
+  "version": "1.0.0",
+  "description": "penguin discord bot that welcomes you",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Benjamin Liu",
+  "license": "MIT"
+}
